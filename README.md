@@ -1,8 +1,8 @@
  <h1 align=center > Hi 👋, I'm Shivani Tuplondhe</h1>
 
-
+<img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" >
 Fronted Developer<br>Developing solutions using  C++, and Python<br>Professional UI/UX designer<br>Enhancing my skills in React<br>I'm actively seeking internship or job opportunities to apply my skill 
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" > 
+ 
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/shivomvanituplondhe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://shorturl.at/NvWq0) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Shiv_T31) 
