@@ -1,4 +1,6 @@
 Hi 👋, I'm Shivani Tuplondhe:
+
+
 Fronted Developer<br>Developing solutions using  C++, and Python<br>Professional UI/UX designer<br>Enhancing my skills in React<br>I'm actively seeking internship or job opportunities to apply my skill 
 
 
