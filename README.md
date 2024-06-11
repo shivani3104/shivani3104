@@ -1,6 +1,6 @@
  <h1 align=center > Hi 👋, I'm Shivani Tuplondhe</h1>
 
-<img align="right" alt="coding" width="200" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" >
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" >
 Fronted Developer<br>Developing solutions using  C++, and Python<br>Professional UI/UX designer<br>Enhancing my skills in React<br>I'm actively seeking internship or job opportunities to apply my skill 
  
 
