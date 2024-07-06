@@ -1,7 +1,7 @@
  <h1 align=center > Hi 👋, I'm Shivani Tuplondhe</h1>
 
 <img align="right" alt="coding" width="250" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" >
-Fronted Developer<br>Developing solutions using  C++, and Python<br>Professional UI/UX designer<br>Enhancing my skills in React<br>I'm actively seeking internship or job opportunities to apply my skill 
+i'm Fronted Developer<br>i'm Developing solutions using  C++, and Python<br>i'm Professional in UI/UX designer<br>I Enhancing my skills in React.js<br>How to reach me <a href="shivanituplondhe31@gmail.com">shivanituplondhe31@gmail.com</a><br>I'm actively seeking internship or job opportunities to apply my skill 
  
 
 ## 🌐 Socials:
